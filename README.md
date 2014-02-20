@@ -23,13 +23,13 @@ neighbourhood preprocessor does not differentiate between pure-CSS or
 indentation-based, bracketless code. It tries to be as transparent as possible,
 especially when it comes to mixins.
 
-_This is it's biggest flaw._
+_This is its biggest flaw._
 
 Not that Stylus is an overly-flawed preprocessor, it's actually quite the
-opposite. Out of all of the preprocessors I've tried, Stylus is - in my opinion;
+opposite. Out of all of the preprocessors I've tried, Stylus is - in my opinion -
 the most superior.
 
-It's problem lies in the fact that because it's syntax is so forgiving, and
+It's problem lies in the fact that because its syntax is so forgiving, and
 there are so many different ways to write a block of Stylus code; it can be
 confusing to learn - it supplies the developer with no definitive direction.
 This, I postulate, is the main reason that it has not received as much attention
@@ -198,7 +198,7 @@ called transparently, as if they were a CSS property:
 
     foo() // root level w/ parens
     body
-      bar() // no argments, must have parens
+      bar() // no arguments, must have parens
       baz: 1px, 3px, 5px // has args, no parens
 
 Folowing this particular convention will not only make your code more readable
@@ -215,7 +215,7 @@ I bet you did - it seems like most functions are prepended with a hyphen. Now,
 it's easy to tell mixins and functions apart!
 
     -random-number()
-      return 4px // gauranteed to be random. Now look away ;)
+      return 4px // guaranteed to be random. Now look away ;)
     body
       font-size: -random-number()
 
