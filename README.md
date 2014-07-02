@@ -1,6 +1,10 @@
 stylus-conventions
 ==================
 
+> **note:** these best practices are outdated. some may still apply, but stylus has evolved a lot over the last few months.
+> unfortunately, I do not have enough time on my hands to research and amend this at the moment, but if you have any questions
+> about ways to do things in stylus, you can always hit me up on twitter (i'll try respond asap) - [@declanjdewet](https://twitter.com/declanjdewet)
+
 ## Introduction
 
 This is a curated set of conventions and best practices for
