@@ -3,7 +3,8 @@ stylus-conventions
 
 > **note:** these best practices are outdated. some may still apply, but stylus has evolved a lot over the last few months.
 > unfortunately, I do not have enough time on my hands to research and amend this at the moment, but if you have any questions
-> about ways to do things in stylus, you can always hit me up on twitter (i'll try respond asap), or just open an issue on here. - [@declanjdewet](https://twitter.com/declanjdewet)
+> about ways to do things in stylus, you can always hit me up on twitter (i'll try respond asap), or just open an issue on here.
+> **in the meantime, you can check the issues page for any discussion/updates** - [@declanjdewet](https://twitter.com/declanjdewet)
 
 ## Introduction
 
